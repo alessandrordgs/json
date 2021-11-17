@@ -1,0 +1,40 @@
+{
+  "2020": [
+    {
+      "Macapa": {
+        "esferaGoverno": "MUNICIPAL",
+        "modalidadeEnsino": "ENSINO FUNDAMENTAL",
+        "valorTotalEscolas": 7938.0
+      },
+      "Cutias": {
+        "esferaGoverno": "MUNICIPAL",
+        "modalidadeEnsino": "ENSINO FUNDAMENTAL",
+        "valorTotalEscolas": 7938.0
+      },
+      "Calcoene": {
+        "esferaGoverno": "MUNICIPAL",
+        "modalidadeEnsino": "ENSINO FUNDAMENTAL",
+        "valorTotalEscolas": 7938.0
+      }
+    }
+  ],
+  "2021": [
+    {
+      "Macapa": {
+        "esferaGoverno": "MUNICIPAL",
+        "modalidadeEnsino": "ENSINO FUNDAMENTAL",
+        "valorTotalEscolas": 7938.0
+      },
+      "Cutias": {
+        "esferaGoverno": "MUNICIPAL",
+        "modalidadeEnsino": "ENSINO FUNDAMENTAL",
+        "valorTotalEscolas": 7938.0
+      },
+      "Calcoene": {
+        "esferaGoverno": "MUNICIPAL",
+        "modalidadeEnsino": "ENSINO FUNDAMENTAL",
+        "valorTotalEscolas": 7938.0
+      }
+    }
+  ]
+}
